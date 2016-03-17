@@ -12,7 +12,7 @@
 	- module : Kernel/drivers/*/*.ko
 	
 3. How to Clean	
-    $ make clean
+    $ make clean                                              
 4.########################           
 email:microzans@gmail.com         
 Thanks Y300-0100
